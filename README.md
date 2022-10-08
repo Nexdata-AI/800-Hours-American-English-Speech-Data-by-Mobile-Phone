@@ -1,8 +1,10 @@
 # 800-Hours-American-English-Speech-Data-by-Mobile-Phone
-https://www.datatang.ai/datasets/999
+
 
 ## Description
 1842 American native speakers participated in the recording with authentic accent. The recorded script is designed by linguists, based on scenes, and cover a wide range of topics including generic, interactive, on-board and home. The text is manually proofread with high accuracy. It matches with mainstream Android and Apple system phones.
+
+For more details, please refer to the link: https://bit.ly/3C8CUAr
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
@@ -24,3 +26,6 @@ American English
 
 ## Application scenarios
 speech recognition; voiceprint recognition
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
